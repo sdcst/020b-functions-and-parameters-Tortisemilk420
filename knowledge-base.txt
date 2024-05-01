@@ -1,0 +1,62 @@
+variable types
+    int
+    float
+    str
+    tuple
+    list
+
+
+input()
+print()
+print(x , end="")
+escape characters ( \n \\ \" \' \t )
+
+
+int(), str(), float(), tuple(), list()
+
+
+if
+if...else
+if...elif
+conditionals ( == , !=, >, <, >=, <= )
+xx in xxx (list/tuple)
+xx in range(xx,xx) (integers)
+logical operators (and, or)
+
+while conditional:
+    break
+
+for x in list:
+for x in range():
+    break
+    continue
+    pass
+else:
+
+
+import math
+math.sqrt()
+math.ceil()
+math.floor()
+math.round()
+math.pi()
+
+math operators (*, /, %, +, -, **)
+pow(base, exponent)
+round(float number, int decimals of accuracy)
+
+tuple/list commands (where list is the variable name that contains a list)
+len()
+list.append()
+list.insert()
+list[a:b] 
+list.remove()
+list.pop()
+list.count()
+list.index()
+list.sort()
+
+functions
+def fname(parameters):
+  commands
+  return variable
