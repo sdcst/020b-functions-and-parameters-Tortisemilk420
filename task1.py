@@ -1,12 +1,16 @@
 #!python3
 
-def sum(a,b):
+def sum(a,b): 
+    
+ 
+
     #inputs
     # a : float 
     # b : float
     # return value: returns the sum of the 2 numbers
-    return
-
+    Sum = a + b
+    return Sum
+    
 
 
 if __name__ == "__main__":
