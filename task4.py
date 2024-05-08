@@ -7,11 +7,11 @@ Return False if the number is not an integer
 (2 points)
 """
 
-def isInteger(x):
-  y = int(x)
-  if x == y:
+def isInteger(B):
+  y = int(B)
+  if B == y:
     A= True
-  elif x != y:
+  elif B != y:
     A = False
   return A
 
